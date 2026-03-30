@@ -1,7 +1,7 @@
 # Maxwell Metzner
 
 Software Developer at Fiserv  
-B.S. in Computer Science — Stevens Institute of Technology  
+B.S. in Computer Science - Stevens Institute of Technology  
 
 I am a software engineer focused on building reliable, scalable systems with an emphasis on clean architecture, maintainability, and performance. My work centers on backend development, application design, and infrastructure automation.
 
